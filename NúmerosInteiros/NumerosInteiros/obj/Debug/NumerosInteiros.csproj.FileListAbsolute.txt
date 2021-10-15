@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\NumerosInteiros\NumerosInteiros\obj\Debug\NumerosInteiros.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\NumerosInteiros\NumerosInteiros\obj\Debug\NumerosInteiros.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\NumerosInteiros\NumerosInteiros\obj\Debug\NumerosInteiros.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\NumerosInteiros\NumerosInteiros\bin\Debug\NumerosInteiros.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\NumerosInteiros\NumerosInteiros\bin\Debug\NumerosInteiros.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\NumerosInteiros\NumerosInteiros\bin\Debug\NumerosInteiros.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\NumerosInteiros\NumerosInteiros\obj\Debug\NumerosInteiros.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\NumerosInteiros\NumerosInteiros\obj\Debug\NumerosInteiros.pdb
