@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Troca\Troca\bin\Debug\Troca.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Troca\Troca\bin\Debug\Troca.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Troca\Troca\bin\Debug\Troca.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Troca\Troca\obj\Debug\Troca.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Troca\Troca\obj\Debug\Troca.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Troca\Troca\obj\Debug\Troca.pdb
