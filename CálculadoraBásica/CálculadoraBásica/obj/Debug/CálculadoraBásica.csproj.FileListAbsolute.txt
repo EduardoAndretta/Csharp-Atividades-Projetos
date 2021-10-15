@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculadoraBásica\CálculadoraBásica\bin\Debug\CálculadoraBásica.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculadoraBásica\CálculadoraBásica\bin\Debug\CálculadoraBásica.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculadoraBásica\CálculadoraBásica\bin\Debug\CálculadoraBásica.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculadoraBásica\CálculadoraBásica\obj\Debug\CálculadoraBásica.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculadoraBásica\CálculadoraBásica\obj\Debug\CálculadoraBásica.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculadoraBásica\CálculadoraBásica\obj\Debug\CálculadoraBásica.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculadoraBásica\CálculadoraBásica\obj\Debug\CálculadoraBásica.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculadoraBásica\CálculadoraBásica\obj\Debug\CálculadoraBásica.pdb
