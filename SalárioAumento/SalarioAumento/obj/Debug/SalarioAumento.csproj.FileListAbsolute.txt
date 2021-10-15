@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\SalarioAumento\SalarioAumento\obj\Debug\SalarioAumento.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\SalarioAumento\SalarioAumento\bin\Debug\SalarioAumento.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\SalarioAumento\SalarioAumento\bin\Debug\SalarioAumento.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\SalarioAumento\SalarioAumento\bin\Debug\SalarioAumento.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\SalarioAumento\SalarioAumento\obj\Debug\SalarioAumento.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\SalarioAumento\SalarioAumento\obj\Debug\SalarioAumento.pdb
