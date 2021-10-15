@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Data_Mes_Dia\Data_Mes_Dia\bin\Debug\Data_Mes_Dia.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Data_Mes_Dia\Data_Mes_Dia\bin\Debug\Data_Mes_Dia.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Data_Mes_Dia\Data_Mes_Dia\bin\Debug\Data_Mes_Dia.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Data_Mes_Dia\Data_Mes_Dia\obj\Debug\Data_Mes_Dia.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Data_Mes_Dia\Data_Mes_Dia\obj\Debug\Data_Mes_Dia.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Data_Mes_Dia\Data_Mes_Dia\obj\Debug\Data_Mes_Dia.pdb
