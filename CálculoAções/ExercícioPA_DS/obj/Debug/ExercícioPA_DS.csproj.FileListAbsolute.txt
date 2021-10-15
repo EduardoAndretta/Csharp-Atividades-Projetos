@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExercícioPA_DS\ExercícioPA_DS\obj\Debug\ExercícioPA_DS.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExercícioPA_DS\ExercícioPA_DS\bin\Debug\ExercícioPA_DS.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExercícioPA_DS\ExercícioPA_DS\bin\Debug\ExercícioPA_DS.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExercícioPA_DS\ExercícioPA_DS\bin\Debug\ExercícioPA_DS.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExercícioPA_DS\ExercícioPA_DS\obj\Debug\ExercícioPA_DS.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExercícioPA_DS\ExercícioPA_DS\obj\Debug\ExercícioPA_DS.pdb
