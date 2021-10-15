@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Parametro\Parametro\obj\Debug\Parametro.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Parametro\Parametro\obj\Debug\Parametro.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Parametro\Parametro\obj\Debug\Parametro.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Parametro\Parametro\bin\Debug\Parametro.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Parametro\Parametro\bin\Debug\Parametro.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Parametro\Parametro\bin\Debug\Parametro.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Parametro\Parametro\obj\Debug\Parametro.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Parametro\Parametro\obj\Debug\Parametro.pdb
