@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Media_5N\Media_5N\bin\Debug\Media_5N.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Media_5N\Media_5N\bin\Debug\Media_5N.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Media_5N\Media_5N\bin\Debug\Media_5N.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Media_5N\Media_5N\obj\Debug\Media_5N.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Media_5N\Media_5N\obj\Debug\Media_5N.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Media_5N\Media_5N\obj\Debug\Media_5N.pdb
