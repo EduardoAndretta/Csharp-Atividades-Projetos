@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Atividade_PA_Area_e_Retangulo\Atividade_PA_Area_e_Retangulo\obj\Debug\Atividade_PA_Area_e_Retangulo.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Atividade_PA_Area_e_Retangulo\Atividade_PA_Area_e_Retangulo\bin\Debug\Atividade_PA_Area_e_Retangulo.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Atividade_PA_Area_e_Retangulo\Atividade_PA_Area_e_Retangulo\bin\Debug\Atividade_PA_Area_e_Retangulo.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Atividade_PA_Area_e_Retangulo\Atividade_PA_Area_e_Retangulo\bin\Debug\Atividade_PA_Area_e_Retangulo.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Atividade_PA_Area_e_Retangulo\Atividade_PA_Area_e_Retangulo\obj\Debug\Atividade_PA_Area_e_Retangulo.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Atividade_PA_Area_e_Retangulo\Atividade_PA_Area_e_Retangulo\obj\Debug\Atividade_PA_Area_e_Retangulo.pdb
