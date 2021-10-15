@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Informando_Numeros\Informando_Numeros\obj\Debug\Informando_Numeros.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Informando_Numeros\Informando_Numeros\obj\Debug\Informando_Numeros.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Informando_Numeros\Informando_Numeros\obj\Debug\Informando_Numeros.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Informando_Numeros\Informando_Numeros\bin\Debug\Informando_Numeros.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Informando_Numeros\Informando_Numeros\bin\Debug\Informando_Numeros.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Informando_Numeros\Informando_Numeros\bin\Debug\Informando_Numeros.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Informando_Numeros\Informando_Numeros\obj\Debug\Informando_Numeros.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Informando_Numeros\Informando_Numeros\obj\Debug\Informando_Numeros.pdb
