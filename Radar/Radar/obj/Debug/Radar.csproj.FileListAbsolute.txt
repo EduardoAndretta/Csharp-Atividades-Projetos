@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Radar\Radar\bin\Debug\Radar.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Radar\Radar\bin\Debug\Radar.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Radar\Radar\bin\Debug\Radar.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Radar\Radar\obj\Debug\Radar.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Radar\Radar\obj\Debug\Radar.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Radar\Radar\obj\Debug\Radar.pdb
