@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Vetor-Array\Vetor-Array\obj\Debug\Vetor-Array.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Vetor-Array\Vetor-Array\obj\Debug\Vetor_Array.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Vetor-Array\Vetor-Array\obj\Debug\Vetor-Array.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Vetor-Array\Vetor-Array\bin\Debug\Vetor-Array.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Vetor-Array\Vetor-Array\bin\Debug\Vetor-Array.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Vetor-Array\Vetor-Array\bin\Debug\Vetor-Array.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Vetor-Array\Vetor-Array\obj\Debug\Vetor-Array.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Vetor-Array\Vetor-Array\obj\Debug\Vetor-Array.pdb
