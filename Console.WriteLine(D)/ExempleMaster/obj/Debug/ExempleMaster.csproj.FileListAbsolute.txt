@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExempleMaster\ExempleMaster\bin\Debug\ExempleMaster.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExempleMaster\ExempleMaster\bin\Debug\ExempleMaster.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExempleMaster\ExempleMaster\bin\Debug\ExempleMaster.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExempleMaster\ExempleMaster\obj\Debug\ExempleMaster.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExempleMaster\ExempleMaster\obj\Debug\ExempleMaster.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExempleMaster\ExempleMaster\obj\Debug\ExempleMaster.pdb
