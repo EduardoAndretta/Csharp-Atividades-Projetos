@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Nome_Sobrenome\Nome_Sobrenome\bin\Debug\Nome_Sobrenome.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Nome_Sobrenome\Nome_Sobrenome\bin\Debug\Nome_Sobrenome.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Nome_Sobrenome\Nome_Sobrenome\bin\Debug\Nome_Sobrenome.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Nome_Sobrenome\Nome_Sobrenome\obj\Debug\Nome_Sobrenome.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Nome_Sobrenome\Nome_Sobrenome\obj\Debug\Nome_Sobrenome.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Nome_Sobrenome\Nome_Sobrenome\obj\Debug\Nome_Sobrenome.pdb
