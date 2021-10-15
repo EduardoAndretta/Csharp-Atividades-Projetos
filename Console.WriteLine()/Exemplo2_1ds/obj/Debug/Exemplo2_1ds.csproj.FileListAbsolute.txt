@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo2_1ds\Exemplo2_1ds\bin\Debug\Exemplo2_1ds.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo2_1ds\Exemplo2_1ds\bin\Debug\Exemplo2_1ds.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo2_1ds\Exemplo2_1ds\bin\Debug\Exemplo2_1ds.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo2_1ds\Exemplo2_1ds\obj\Debug\Exemplo2_1ds.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo2_1ds\Exemplo2_1ds\obj\Debug\Exemplo2_1ds.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo2_1ds\Exemplo2_1ds\obj\Debug\Exemplo2_1ds.pdb
