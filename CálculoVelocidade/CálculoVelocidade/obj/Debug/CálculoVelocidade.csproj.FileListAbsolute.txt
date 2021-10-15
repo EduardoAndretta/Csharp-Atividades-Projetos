@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculoVelocidade\CálculoVelocidade\obj\Debug\CálculoVelocidade.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculoVelocidade\CálculoVelocidade\bin\Debug\CálculoVelocidade.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculoVelocidade\CálculoVelocidade\bin\Debug\CálculoVelocidade.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculoVelocidade\CálculoVelocidade\bin\Debug\CálculoVelocidade.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculoVelocidade\CálculoVelocidade\obj\Debug\CálculoVelocidade.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\CálculoVelocidade\CálculoVelocidade\obj\Debug\CálculoVelocidade.pdb
