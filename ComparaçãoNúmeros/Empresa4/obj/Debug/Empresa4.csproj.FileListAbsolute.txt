@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Empresa4\Empresa4\obj\Debug\Empresa4.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Empresa4\Empresa4\obj\Debug\Empresa4.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Empresa4\Empresa4\obj\Debug\Empresa4.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Empresa4\Empresa4\bin\Debug\Empresa4.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Empresa4\Empresa4\bin\Debug\Empresa4.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Empresa4\Empresa4\bin\Debug\Empresa4.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Empresa4\Empresa4\obj\Debug\Empresa4.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Empresa4\Empresa4\obj\Debug\Empresa4.pdb
