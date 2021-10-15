@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExemploRecuperarDados\ExemploRecuperarDados\bin\Debug\ExemploRecuperarDados.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExemploRecuperarDados\ExemploRecuperarDados\bin\Debug\ExemploRecuperarDados.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExemploRecuperarDados\ExemploRecuperarDados\bin\Debug\ExemploRecuperarDados.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExemploRecuperarDados\ExemploRecuperarDados\obj\Debug\ExemploRecuperarDados.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExemploRecuperarDados\ExemploRecuperarDados\obj\Debug\ExemploRecuperarDados.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExemploRecuperarDados\ExemploRecuperarDados\obj\Debug\ExemploRecuperarDados.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExemploRecuperarDados\ExemploRecuperarDados\obj\Debug\ExemploRecuperarDados.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\ExemploRecuperarDados\ExemploRecuperarDados\obj\Debug\ExemploRecuperarDados.pdb
