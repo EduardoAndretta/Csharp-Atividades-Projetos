@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\While-Vetor\While-Vetor\obj\Debug\While-Vetor.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\While-Vetor\While-Vetor\obj\Debug\While_Vetor.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\While-Vetor\While-Vetor\obj\Debug\While-Vetor.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\While-Vetor\While-Vetor\bin\Debug\While-Vetor.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\While-Vetor\While-Vetor\bin\Debug\While-Vetor.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\While-Vetor\While-Vetor\bin\Debug\While-Vetor.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\While-Vetor\While-Vetor\obj\Debug\While-Vetor.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\While-Vetor\While-Vetor\obj\Debug\While-Vetor.pdb
