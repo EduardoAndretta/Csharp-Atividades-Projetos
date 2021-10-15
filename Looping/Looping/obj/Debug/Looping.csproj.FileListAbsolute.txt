@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Looping\Looping\obj\Debug\Looping.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Looping\Looping\obj\Debug\Looping.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Looping\Looping\obj\Debug\Looping.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Looping\Looping\bin\Debug\Looping.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Looping\Looping\bin\Debug\Looping.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Looping\Looping\bin\Debug\Looping.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Looping\Looping\obj\Debug\Looping.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Looping\Looping\obj\Debug\Looping.pdb
