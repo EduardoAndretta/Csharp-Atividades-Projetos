@@ -1,0 +1,8 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo3\Exemplo3\obj\Debug\Exemplo3.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo3\Exemplo3\obj\Debug\Exemplo3.MainForm.resources
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo3\Exemplo3\obj\Debug\Exemplo3.csproj.GenerateResource.Cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo3\Exemplo3\bin\Debug\Exemplo3.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo3\Exemplo3\bin\Debug\Exemplo3.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo3\Exemplo3\bin\Debug\Exemplo3.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo3\Exemplo3\obj\Debug\Exemplo3.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Exemplo3\Exemplo3\obj\Debug\Exemplo3.pdb
