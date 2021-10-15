@@ -1,0 +1,6 @@
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Desafio1_DS\Desafio1_DS\obj\Debug\Desafio1_DS.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Desafio1_DS\Desafio1_DS\bin\Debug\Desafio1_DS.exe.config
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Desafio1_DS\Desafio1_DS\bin\Debug\Desafio1_DS.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Desafio1_DS\Desafio1_DS\bin\Debug\Desafio1_DS.pdb
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Desafio1_DS\Desafio1_DS\obj\Debug\Desafio1_DS.exe
+C:\Users\Eduardo Andretta\Documents\SharpDevelop Projects\Desafio1_DS\Desafio1_DS\obj\Debug\Desafio1_DS.pdb
